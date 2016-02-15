@@ -95,6 +95,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Symbol Constants</string>
+			<key>scope</key>
+			<string>symbol.constant</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#6ed895</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Booleans?</string>
 			<key>scope</key>
 			<string>constant.language</string>
